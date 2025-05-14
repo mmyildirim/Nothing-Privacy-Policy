@@ -1,6 +1,6 @@
 # Gizlilik Politikası
 
-**Son Güncelleme Tarihi:** 10 Ekim 2023
+**Son Güncelleme Tarihi:** 14 Mayıs 2025
 
 ## Giriş
 
