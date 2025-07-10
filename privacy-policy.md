@@ -38,7 +38,7 @@ Uygulamamız, aşağıdaki üçüncü taraf hizmetleri kullanmaktadır:
 - **Google AdMob:** Uygulama içi reklamları yönetmek için kullanılır. Google'ın gizlilik politikasına [buradan](https://policies.google.com/privacy) ulaşabilirsiniz.
 - **Google Analytics for Firebase:** Uygulama kullanım istatistiklerini toplamak için kullanılabilir.
 
-### Yasal Gereklilikler
+### Yasal Gereklilikler 
 
 Yasal bir zorunluluk olduğunda, kamu güvenliğini korumak veya yasal haklarımızı savunmak için bilgilerinizi paylaşabiliriz.
 
@@ -49,7 +49,7 @@ Uygulamamız, Google AdMob aracılığıyla reklam göstermektedir. Bu reklamlar
 ## Veri Saklama
 
 Verilerinizi, hizmetlerimizi sunmak için gerekli olduğu sürece saklarız ve düzenli olarak gereksiz verileri sileriz.
-
+ 
 ## Veri Güvenliği
 
 Bilgilerinizi korumak için uygun teknik ve organizasyonel önlemleri alıyoruz, ancak hiçbir veri aktarım veya saklama yönteminin %100 güvenli olmadığını unutmayın.
